@@ -87,7 +87,7 @@ class CfgVehicles
         {
             hasIcon=1;
             autoSwitchOff=0;
-            energyUsagePerSecond=0.0035; // ~4 hours of full 9v battery usage
+            energyUsagePerSecond=0.00175; // ~8 hours of full 9v battery usage
             plugType=1;
             attachmentAction=1;
             wetnessExposure=0;
